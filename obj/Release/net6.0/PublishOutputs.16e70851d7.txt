@@ -1,0 +1,7 @@
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemo.exe
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemo.dll
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemo.deps.json
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemo.runtimeconfig.json
+F:\Phase4\Salmansirclass\Day6\JenkinsDemo\JenkinsDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemo.pdb
